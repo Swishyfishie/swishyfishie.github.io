@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I want to be a Software Engineer"
-date:       2019-12-10 05:46:41 +0000
+date:       2019-12-10 00:46:42 -0500
 permalink:  why_i_want_to_be_a_software_engineer
 ---
 
