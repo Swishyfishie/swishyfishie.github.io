@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How you can effortlessly improve your pseudo-coding in 2 minutes!"
-date:       2020-01-13 14:26:49 +0000
+date:       2020-01-13 09:26:50 -0500
 permalink:  how_you_can_effortlessly_improve_your_pseudo-coding_in_2_minutes
 ---
 
