@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A mediocre way of building a Ruby on Rails app"
-date:       2020-06-20 01:02:04 +0000
+date:       2020-06-19 21:02:05 -0400
 permalink:  a_mediocre_way_of_building_a_ruby_on_rails_app
 ---
 
@@ -91,7 +91,7 @@ It's called ERB and it stands for Embedded Ruby, which is basically a HTML file 
 
 You can see my result here and what I'm talking about.
 
-* Here's the video: 
+* Here's the video: https://youtu.be/g9h7cxPy_6E
 
 * And here's the repository: https://github.com/Swishyfishie/Tellcode
 
