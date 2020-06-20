@@ -14,7 +14,7 @@ Out of the last two, I'd recommend focusing on HTML more than CSS. While you may
 
 TLDR: Ruby, HTML and CSS
 
-### Where did I started from?
+### Where did I start from?
 
 https://guides.rubyonrails.org/getting_started.html
 
