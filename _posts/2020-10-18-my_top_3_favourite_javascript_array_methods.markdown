@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Top 3 Favourite JavaScript Array Methods"
-date:       2020-10-18 10:45:27 +0000
+date:       2020-10-18 06:45:28 -0400
 permalink:  my_top_3_favourite_javascript_array_methods
 ---
 
