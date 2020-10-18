@@ -62,7 +62,7 @@ And here, I could even introduce a conditional statement to display my love for 
 ![](https://i.imgur.com/UpffdI0.png)
 
 
-This bite-sized article is meant to quickly show you how you could use those 3 methods. I hope you enjoyed it and fount it useful.
+This bite-sized article is meant to quickly show you how you could use those 3 methods. I hope you enjoyed it and found it useful.
 
 
 
