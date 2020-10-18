@@ -15,13 +15,14 @@ In this tutorial I will be working in the **Google Chrome dev tools** console, s
 
 
 We will create an array of strings and we will go through each of those methods to see what they are used for in an array.
+
 `let myTutorials = ['Python','JavaScript','Ruby']`
 
 ![](https://i.imgur.com/YgF6e8y.png)
 
 ### Starting with .forEach()
 
-For each calls a function for each element of the array, in order so basically it loops over the array and I mostly use forEach when I want to render something in the dom.
+For each calls a function for each element of the array, in order so basically it loops over the array, and I mostly use `.forEach()` when I want to render something in the dom.
 
 `myTutorials.forEach(tutorial => document.write(`I love ${tutorial}. `))`
 
